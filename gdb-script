@@ -1,0 +1,4 @@
+tar ext /dev/ttyBmpGdb
+# mon connect_srst enable
+mon swdp_scan
+att 1
